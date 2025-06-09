@@ -1,4 +1,5 @@
-📊 Implementação de Indicadores Educacionais - Censo Escolar 2024
+#📊 Implementação de Indicadores Educacionais - Censo Escolar 2024
+
 Este projeto tem como objetivo importar e explorar a base de dados do Censo Escolar 2024 para implementar indicadores educacionais com base nos municípios do Rio de Janeiro.
 
 🧰 Ferramentas utilizadas
